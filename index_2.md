@@ -36,7 +36,12 @@ Part 2
 First is the absolute path to the private key for my SSH key for logging into ieng6.
 ![Image](publickey.png)
 This picture shows the path to the public key for my SSH key for logging into ieng6.
-![Image](.png)
+![Image](Interaction.png)
+This is the terminal interaction where I logged into my ieng6 account without being asked for a password.
+
+Part 3
+In the lab of 2 and 3, I learnt quite a lot of things I haven't learnt before. In the lab2, I learnt how to build and run a server which I haven't done before. I think it's really cool and got a sense of achievement after making the first"Searching Engine" with the help of classmates and teaching assisstants. Besides, since I haven't learnt java before, I also learnt how to use javac and java to complie and to run a program. In the lab 3, I learnt to set up SSH keys for easy access in which I can log into my ieng6 account without using my password which is really convenient!!Although I lack some basic knowledge for this class, I think I can do well in it with more efforts!
+
 
 
 
